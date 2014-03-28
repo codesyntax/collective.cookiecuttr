@@ -5,6 +5,11 @@ Changelog
 0.7.2 (unreleased)
 ------------------
 
+- When product is installed but disabled, show the standard contents
+  of the analytics viewlet.
+  Fixes https://github.com/fourdigits/collective.cookiecuttr/issues/5
+  [maurits]
+
 - Implement implied consent [erral]
 
 - Use collective.z3cform.datagridfield and make it multilingual aware [erral]
